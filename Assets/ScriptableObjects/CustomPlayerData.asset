@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: CustomPlayerData
   m_EditorClassIdentifier: 
   speed: 12
-  gravity: -8.81
+  gravity: -19
   groundDistance: 0.4
   jumpHeight: 3
